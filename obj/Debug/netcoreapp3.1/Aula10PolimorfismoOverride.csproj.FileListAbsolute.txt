@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Aulas SENAI[\Aula10PolimorfismoOverride\bin\Debug\netcoreapp3.1\Aula10PolimorfismoOverride.exe
+C:\Users\User\Desktop\Aulas SENAI[\Aula10PolimorfismoOverride\bin\Debug\netcoreapp3.1\Aula10PolimorfismoOverride.deps.json
+C:\Users\User\Desktop\Aulas SENAI[\Aula10PolimorfismoOverride\bin\Debug\netcoreapp3.1\Aula10PolimorfismoOverride.runtimeconfig.json
+C:\Users\User\Desktop\Aulas SENAI[\Aula10PolimorfismoOverride\bin\Debug\netcoreapp3.1\Aula10PolimorfismoOverride.runtimeconfig.dev.json
+C:\Users\User\Desktop\Aulas SENAI[\Aula10PolimorfismoOverride\bin\Debug\netcoreapp3.1\Aula10PolimorfismoOverride.dll
+C:\Users\User\Desktop\Aulas SENAI[\Aula10PolimorfismoOverride\bin\Debug\netcoreapp3.1\Aula10PolimorfismoOverride.pdb
+C:\Users\User\Desktop\Aulas SENAI[\Aula10PolimorfismoOverride\obj\Debug\netcoreapp3.1\Aula10PolimorfismoOverride.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Aulas SENAI[\Aula10PolimorfismoOverride\obj\Debug\netcoreapp3.1\Aula10PolimorfismoOverride.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Aulas SENAI[\Aula10PolimorfismoOverride\obj\Debug\netcoreapp3.1\Aula10PolimorfismoOverride.AssemblyInfo.cs
+C:\Users\User\Desktop\Aulas SENAI[\Aula10PolimorfismoOverride\obj\Debug\netcoreapp3.1\Aula10PolimorfismoOverride.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Aulas SENAI[\Aula10PolimorfismoOverride\obj\Debug\netcoreapp3.1\Aula10PolimorfismoOverride.dll
+C:\Users\User\Desktop\Aulas SENAI[\Aula10PolimorfismoOverride\obj\Debug\netcoreapp3.1\Aula10PolimorfismoOverride.pdb
+C:\Users\User\Desktop\Aulas SENAI[\Aula10PolimorfismoOverride\obj\Debug\netcoreapp3.1\Aula10PolimorfismoOverride.genruntimeconfig.cache
