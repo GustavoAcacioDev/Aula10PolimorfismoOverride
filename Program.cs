@@ -15,6 +15,10 @@ namespace Aula10PolimorfismoOverride
 
             anual.MostrarRelatorio();
 
+            Semanal semanal = new Semanal();
+
+            semanal.MostrarRelatorio();
+
         }
     }
 }
